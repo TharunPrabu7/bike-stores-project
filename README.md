@@ -1,2 +1,2 @@
 # bike-stores-project
-Cleaning and Exporting data from a database and visualizing it.
+Creating a database and filling the tables. Cleaning and Exporting data from a database and visualizing it.
